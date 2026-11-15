@@ -4,7 +4,6 @@ difficulty: beginner
 type: quiz 
 
 description: ./DESCRIPTION.md
-handbook: ./HANDBOOK.md
 
 tags:
   - crypto
