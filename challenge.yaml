@@ -1,9 +1,10 @@
 title: "Ghosting"
-shortDescription: "Někdy stačí malá nepozornost, rozlitý energeťák a i obyčejné psaní se změní v kryptografický oříšek. Podaří se ti rozluštit zprávu z poškozené klávesnice?"
+shortDescription: "Kolega si pohrál s rozložením české klávesnice. Podaří se ti zrekonstruovat původní zprávu a získat přístupový klíč?"
 difficulty: beginner 
 type: quiz 
 
 description: ./DESCRIPTION.md
+handbook: ./HANDBOOK.md
 
 tags:
   - crypto
@@ -12,7 +13,7 @@ tags:
 flags:
   - name: "Vlajka"
     description: |
-      Zjisti co se stalo s rozbitou klávesnicí a rozlušti zprávu..
+      Odhal úpravu klávesnice a získej vlajku.
     points: 5
     type: "2"
     identifier: "Ghosting-flag1"

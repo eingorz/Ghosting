@@ -1,6 +1,7 @@
-Kolega si během nočního deploye vylil energeťák do své milované mechanické klávesnice. Od té doby mu začala psát naprosté nesmysly – zřejmě došlo ke nějakému zkratu.
+Kolega z IT rád experimentuje s mechanickými klávesnicemi a alternativním rozložením kláves. Zrovna ladil nový firmware a trochu si pohrál s keyboard layoutem na své české klávesnici.
 
-Než klávesnice definitivně odešla do křemíkového nebe, stihl nám poslat zprávu s přístupovým klíčem. Podaří se ti zrekonstruovat, co se vlastně snažil napsat?
+Než odešel na oběd, poslal nám zprávu s přístupovým klíčem. Text ale na první pohled nedává smysl – očividně ho psal už s nově upraveným rozložením. Podaří se ti přijít na to, co s klávesami provedl, a zrekonstruovat původní zprávu?
 
 ```text
 Jo. zjr gůsh od_ jscshpm{f,ůtsE6mX,BxvmůwUEcbf3zůrE6ůs,cůvJMúVh;;}
+```
